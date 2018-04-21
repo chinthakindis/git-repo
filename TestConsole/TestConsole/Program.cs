@@ -7,6 +7,7 @@ namespace TestConsole
         static void Main(string[] args)
         {
             Console.WriteLine("Testing merge with changes in Master branch");
+            Console.WriteLine("Hello custom message!");
         }
     }
 }
